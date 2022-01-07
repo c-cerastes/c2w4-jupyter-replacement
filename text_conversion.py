@@ -1,5 +1,3 @@
-import random, re
-
 def troutspeak(inputstring):
     lis = []
     x=1
