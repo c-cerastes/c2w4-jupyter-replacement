@@ -8,7 +8,7 @@ _Labs I used to volunteer in for my neuroscience degree often used data science 
 
 ### The code in the text_conversion.py file of the repo is meant to take an input string and convert the string to alternating caps.
 
-[Direct link to the file here.]
+[Direct link to the file here.](text_conversion.py)
 
 * Bullet
 * More bullets
@@ -20,4 +20,3 @@ _Labs I used to volunteer in for my neuroscience degree often used data science 
 4. four
 
 > Quoted text
-
